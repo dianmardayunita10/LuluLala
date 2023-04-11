@@ -8,7 +8,7 @@
     "ad_network": [
       {
         "name": "startapp",
-        "value": 0,
+        "value": 10,
 
         "appId_appKey_publisherId_gameId": "203881118",
         "banner": "-",
