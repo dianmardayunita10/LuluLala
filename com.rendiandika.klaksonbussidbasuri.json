@@ -1,0 +1,775 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "1df42921-8b8a-4343-9501-33c3fcce235b",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "startapp",
+        "value": 10,
+
+        "appId_appKey_publisherId_gameId": "203881118",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "Maps": [
+    {
+      "name_map": "Berlumpur Nanjak",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Berlumpur Nanjak.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Berlumpur Nanjak.bussidmod"
+    },
+	{
+      "name_map": "Blusukan Becek",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Blusukan Becek.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Blusukan Becek.bussidmod"
+    },
+	{
+      "name_map": "Bukit Bintang",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Bukit Bintang.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Bukit Bintang.bussidmod"
+    },
+	{
+      "name_map": "Green Mars V1",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Green Mars V1.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Green Mars V1.bussidmod"
+    },
+	{
+      "name_map": "Jalur Extreme",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Jalur Extreme.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Jalur Extreme.bussidmod"
+    },
+	{
+      "name_map": "Jalur Khusus Offroad",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Jalur Khusus Offroad.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Jalur Khusus Offroad.bussidmod"
+    },
+	{
+      "name_map": "Jalur Papua",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Jalur Papua.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Jalur Papua.bussidmod"
+    },
+	{
+      "name_map": "Jalur Rimba",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Jalur Rimba.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Jalur Rimba.bussidmod"
+    },
+	{
+      "name_map": "Kelok 44 Atas",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Kelok 44 Atas.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Kelok 44 Atas.bussidmod"
+    },
+	{
+      "name_map": "Kelok 44 Bawah",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Kelok 44 Bawah.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Kelok 44 Bawah.bussidmod"
+    },
+	{
+      "name_map": "Kelok 44 Jalan Rusak",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Kelok 44 Jalan Rusak.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Kelok 44 Jalan Rusak.bussidmod"
+    },
+	{
+      "name_map": "Offroad Ekstrim",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Offroad Ekstrim.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Offroad Ekstrim.bussidmod"
+    },
+	{
+      "name_map": "RoadRoad",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/RoadRoad.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/RoadRoad.bussidmod"
+    },
+	{
+      "name_map": "Sabang",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Sabang.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Sabang.bussidmod"
+    },
+	{
+      "name_map": "Sempit Sumatraan",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Sempit Sumatraan.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Sempit Sumatraan.bussidmod"
+    },
+	{
+      "name_map": "SnakeSkull",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/SnakeSkull.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/SnakeSkull.bussidmod"
+    },
+	{
+      "name_map": "Wonosobo Batur",
+      "view_map": "https://thirteenvideo.com/BussidMod/Map/Wonosobo Batur.jpg",
+      "map_url": "https://thirteenvideo.com/BussidMod/Map/Wonosobo Batur.bussidmod"
+    }
+  ],
+  "Mods": [
+    {
+      "title": "Juragan 99 JB3 Dream Coach",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3 Dream Coach.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3 Dream Coach.bussidmod",
+      "name_livery": "Pandawa 87",
+      "link_livery": "https://thirteenvideo.com/BussidMod/Bus/JB3 Dream Coach Livery Pandawa 87.png",
+      "name_livery2": "Juragan 99",
+      "link_livery2": "https://thirteenvideo.com/BussidMod/Bus/JB3 Dream Coach Livery Juragan 99.png"
+    },
+	{
+      "title": "JB3 Oleng Di Tempat",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3 Oleng Di Tempat.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3 Oleng Di Tempat.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+	{
+      "title": "JB3 Pecel Geprek HR Black Bee",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3 Pecel Geprek HR Black Bee.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3 Pecel Geprek HR Black Bee.bussidmod",
+      "name_livery": "PO Haryanto",
+      "link_livery": "https://thirteenvideo.com/BussidMod/Bus/JB3 Pecel Geprek HR Black Bee Livery PO Haryanto.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+	{
+      "title": "JB3 SHD Cvt",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3 SHD Cvt.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3 SHD Cvt.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+	{
+      "title": "JB3 SHD Non Tameng",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3 SHD Non Tameng.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3 SHD Non Tameng.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+	{
+      "title": "JB3 SHD Tameng",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3 SHD Tameng.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3 SHD Tameng.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+	{
+      "title": "JB3 Sugeng",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3 Sugeng.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3 Sugeng.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+	{
+      "title": "JB3 UHD",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3 UHD.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3 UHD.bussidmod",
+      "name_livery": "Putra Pelangi",
+      "link_livery": "https://thirteenvideo.com/BussidMod/Bus/JB3 UHD Livery Putra Pelangi.png",
+      "name_livery2": "Gunung Harta",
+      "link_livery2": "https://thirteenvideo.com/BussidMod/Bus/JB3 UHD Livery Gunung Harta.png"
+    },
+	{
+      "title": "JB3 Varian Tameng",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3 Varian Tameng.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3 Varian Tameng.bussidmod",
+      "name_livery": "Hello Kitty",
+      "link_livery": "https://thirteenvideo.com/BussidMod/Bus/JB3 Varian Tameng Livery Hello Kitty.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+	{
+      "title": "JB3+ Facelift Scania K360",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3+ Facelift Scania K360.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3+ Facelift Scania K360.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+	{
+      "title": "JB3+ Full Kejutan",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3+ Full Kejutan.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3+ Full Kejutan.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+	{
+      "title": "JB3+ HDD Mesin Depan PO Haryanto",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3+ HDD Mesin Depan PO Haryanto.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3+ HDD Mesin Depan PO Haryanto.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+	{
+      "title": "JB3+ Hino Rk8 R260 Angga Saputro Varian 1",
+      "image": "https://thirteenvideo.com/BussidMod/Bus/JB3+ Hino Rk8 R260 Angga Saputro Varian 1.jpg",
+      "category": "Bus",
+      "link_mods": "https://thirteenvideo.com/BussidMod/Bus/JB3+ Hino Rk8 R260 Angga Saputro Varian 1.bussidmod",
+      "name_livery": "Bhina Karya Jaya Hijau",
+      "link_livery": "https://thirteenvideo.com/BussidMod/Bus/JB3+ Hino Rk8 R260 Angga Saputro Varian 1 Livery Bhina Karya Jaya Hijau.png",
+      "name_livery2": "Bhina Karya Jaya Biru",
+      "link_livery2": "https://thirteenvideo.com/BussidMod/Bus/JB3+ Hino Rk8 R260 Angga Saputro Varian 1 Livery Bhina Karya Jaya Biru.png"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "BASURI V4 01",
+      "name": "Basuri Konslet",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriKonslet/BASURIV401.mp3"
+    },
+    {
+      "title_mp3": "BASURI V4 02",
+      "name": "Basuri Konslet",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriKonslet/BASURIV402.mp3"
+    },
+    {
+      "title_mp3": "BASURI V4 03",
+      "name": "Basuri Konslet",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriKonslet/BASURIV403.mp3"
+    },
+    {
+      "title_mp3": "BASURI V4 04",
+      "name": "Basuri Konslet",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriKonslet/BASURIV404.mp3"
+    },
+    {
+      "title_mp3": "BASURI V4 05",
+      "name": "Basuri Konslet",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriKonslet/BASURIV405.mp3"
+    },
+    {
+      "title_mp3": "BASURI V4 06",
+      "name": "Basuri Konslet",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriKonslet/BASURIV406.mp3"
+    },
+    {
+      "title_mp3": "BASURI V4 07",
+      "name": "Basuri Konslet",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriKonslet/BASURIV407.mp3"
+    },
+    {
+      "title_mp3": "BASURI V4 08",
+      "name": "Basuri Konslet",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriKonslet/BASURIV408.mp3"
+    },
+    {
+      "title_mp3": "SUSUMURNI",
+      "name": "Basuri Nada",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriNada/BASURIV4BASURINADAJP01SUSUMURNI01.mp3"
+    },
+    {
+      "title_mp3": "STROBERI MANGGA NANAS",
+      "name": "Basuri Nada",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriNada/BASURIV4BASURINADAJP02STROBERIMANGGANANAS03.mp3"
+    },
+    {
+      "title_mp3": "COFFIN DANCE",
+      "name": "Basuri Nada",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriNada/BASURIV4BASURINADAJP03COFFINDANCE04.mp3"
+    },
+    {
+      "title_mp3": "HEY TAYO",
+      "name": "Basuri Nada",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriNada/BASURIV4BASURINADAJP04HEYTAYO05.mp3"
+    },
+    {
+      "title_mp3": "SUSUNYA MAMAH",
+      "name": "Basuri Nada",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriNada/BASURIV4BASURINADAJP05SUSUNYAMAMAH06.mp3"
+    },
+    {
+      "title_mp3": "SQUID GAME",
+      "name": "Basuri Nada",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriNada/BASURIV4BASURINADAJP06SQUIDGAME07.mp3"
+    },
+    {
+      "title_mp3": "BABY SHARK",
+      "name": "Basuri Nada",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriNada/BASURIV4BASURINADAJP07BABYSHARK08.mp3"
+    },
+    {
+      "title_mp3": "OJO DIBANDINGKE",
+      "name": "Basuri Nada",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriNada/BASURIV4BASURINADAJP08OJODIBANDINGKE09.mp3"
+    },
+    {
+      "title_mp3": "TEPUK TANGAN",
+      "name": "Basuri Nada",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriNada/BASURIV4BASURINADAJP09TEPUKTANGAN10.mp3"
+    },
+    {
+      "title_mp3": "ABANG TUKANG BASO",
+      "name": "Basuri Nada",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriNada/BASURIV4BASURINADAJP10ABANGTUKANGBASO02.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 01",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET01.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 02",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET02.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 03",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET03.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 04",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET04.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 05",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET05.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 06",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET06.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 07",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET07.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 08",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET08.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 09",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET09.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 10",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET10.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 11",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET11.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 12",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET12.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 13",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET13.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 14",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET14.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 15",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET15.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 16",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET16.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 17",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET17.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 18",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET18.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 19",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET19.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 20",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET20.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 21",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET21.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 22",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET22.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 23",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET23.mp3"
+    },
+    {
+      "title_mp3": "V1 TELOLET 24",
+      "name": "Basuri V1",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV1/V1TELOLET24.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 01",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET01.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 02",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET02.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 03",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET03.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 04",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET04.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 05",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET05.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 06",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET06.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 07",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET07.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 08",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET08.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 09",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET09.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 10",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET10.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 11",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET11.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 12",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET12.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 13",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET13.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 14",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET14.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 15",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET15.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 16",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET16.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 17",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET17.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 18",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET18.mp3"
+    },
+    {
+      "title_mp3": "V2 TELOLET 19",
+      "name": "Basuri V2",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV2/V2TELOLET19.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 01",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV301.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 02",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV302.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 03",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV303.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 04",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV304.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 05",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV305.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 06",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV306.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 07",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV307.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 08",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV308.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 09",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV309.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 10",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV310.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 11",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV311.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 12",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV312.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 13",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV313.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 14",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV314.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 15",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV315.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 16",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV316.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 17",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV317.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 18",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV318.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 19",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV319.mp3"
+    },
+    {
+      "title_mp3": "BASURI V3 20",
+      "name": "Basuri V3",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/BasuriV3/BASURIV320.mp3"
+    },
+    {
+      "title_mp3": "KUCING GARONG X BUKA SITIK JOS",
+      "name": "Telolet Alzifa",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletAlzifa/01ALFIZAKUCINGGARONGXBUKASITIKJOS.mp3"
+    },
+    {
+      "title_mp3": "KANGGO RIKO",
+      "name": "Telolet Alzifa",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletAlzifa/02ALFIZAKANGGORIKO.mp3"
+    },
+    {
+      "title_mp3": "CARI JODOH",
+      "name": "Telolet Alzifa",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletAlzifa/03ALFIZACARIJODOH.mp3"
+    },
+    {
+      "title_mp3": "NADA",
+      "name": "Telolet Alzifa",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletAlzifa/04ALFIZANADA.mp3"
+    },
+    {
+      "title_mp3": "BOJO KETIKUNG",
+      "name": "Telolet Alzifa",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletAlzifa/05ALFIZABOJOKETIKUNG.mp3"
+    },
+    {
+      "title_mp3": "TUMHIHO",
+      "name": "Telolet Alzifa",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletAlzifa/06ALFIZATUMHIHO.mp3"
+    },
+    {
+      "title_mp3": "PAKISTAN",
+      "name": "Telolet Alzifa",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletAlzifa/07ALFIZAPAKISTAN.mp3"
+    },
+    {
+      "title_mp3": "MENGULAR",
+      "name": "Telolet Alzifa",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletAlzifa/08ALFIZAMENGULAR.mp3"
+    },
+    {
+      "title_mp3": "OST ADIT SOPO JARWO",
+      "name": "Telolet Alzifa",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletAlzifa/09ALFIZAOSTADITSOPOJARWO.mp3"
+    },
+    {
+      "title_mp3": "TOKECANG X ONDEL ONDEL",
+      "name": "Telolet Alzifa",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletAlzifa/10ALFIZATOKECANGXONDELONDEL.mp3"
+    },
+    {
+      "title_mp3": "KUDA LUMPING X BASURI",
+      "name": "Telolet Spesial",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletSpesial/01ALZIFAKUDALUMPINGXBASURI.mp3"
+    },
+    {
+      "title_mp3": "NADA ANAK",
+      "name": "Telolet Spesial",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletSpesial/02SPESIALNADAANAK.mp3"
+    },
+    {
+      "title_mp3": "ONDEL X SIAPA YG PUNYA",
+      "name": "Telolet Spesial",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletSpesial/03SPESIALONDELXSIAPAYGPUNYA.mp3"
+    },
+    {
+      "title_mp3": "PANJANG",
+      "name": "Telolet Spesial",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletSpesial/04SPESIALPANJANG.mp3"
+    },
+    {
+      "title_mp3": "TAYO",
+      "name": "Telolet Spesial",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletSpesial/05SPESIALTAYO.mp3"
+    },
+    {
+      "title_mp3": "TELOLET HUT RI 17AGUSTUS",
+      "name": "Telolet Spesial",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletSpesial/06TELOLETHUTRI17AGUSTUS.mp3"
+    },
+    {
+      "title_mp3": "BASURI TERBARU JP01",
+      "name": "Telolet Terbaru",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletTerbaru/BASURITELOLETTERBARUJP01.mp3"
+    },
+    {
+      "title_mp3": "BASURI TERBARU JP02",
+      "name": "Telolet Terbaru",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletTerbaru/BASURITELOLETTERBARUJP02.mp3"
+    },
+    {
+      "title_mp3": "BASURI TERBARU JP03",
+      "name": "Telolet Terbaru",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletTerbaru/BASURITELOLETTERBARUJP03.mp3"
+    },
+    {
+      "title_mp3": "BASURI TERBARU JP04",
+      "name": "Telolet Terbaru",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletTerbaru/BASURITELOLETTERBARUJP04.mp3"
+    },
+    {
+      "title_mp3": "BASURI TERBARU JP05",
+      "name": "Telolet Terbaru",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletTerbaru/BASURITELOLETTERBARUJP05.mp3"
+    },
+    {
+      "title_mp3": "BASURI TERBARU JP06",
+      "name": "Telolet Terbaru",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletTerbaru/BASURITELOLETTERBARUJP06.mp3"
+    },
+    {
+      "title_mp3": "BASURI TERBARU JP07",
+      "name": "Telolet Terbaru",
+      "url_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuri/TeloletTerbaru/BASURITELOLETTERBARUJP07.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Radio Rama FM",
+      "url_radio": "http://ec2.yesstreaming.net:1710/stream"
+    },
+    {
+      "title_radio": "Radio Rodja",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3"
+    }
+  ]
+}
